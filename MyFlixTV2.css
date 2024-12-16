@@ -674,7 +674,7 @@ progress::-webkit-progress-value {
 }
 
 .layout-desktop #homeTab .raised.homeLibraryButton.emby-button {
-	display: flex;
+	display: none;
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
