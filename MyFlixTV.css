@@ -48,7 +48,7 @@
 }
 
 .layout-desktop #homeTab .textActionButton {
-	white-space: nowrap;
+	display: none;
 }
 
 .appfooter, .playlistSectionButton {
