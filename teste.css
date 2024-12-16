@@ -2992,8 +2992,7 @@ position: absolute;
 }
 
 @media (max-height: 61em) {
-	.layout-desktop .mainDetailButtons.focuscontainer-x {
-		top: 2.5em;
+	.layout-desktop .mainDetailButtons.focuscontainer-x {		
 		left: 41vw;
 		width: 30em;
 		
